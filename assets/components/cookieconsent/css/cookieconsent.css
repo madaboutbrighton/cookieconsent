@@ -1,0 +1,66 @@
+.cookieconsent
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  text-align:center;
+  border-radius: 0;
+}
+
+div.cookieconsent
+{
+  border-color: #f5e79e;
+}
+
+div.alert-warning
+{
+  background-color: #fcf8e3;
+  color: #8a6d3b;
+}
+
+.cookieconsent p
+{
+  line-height: 2;
+}
+
+.cookieconsent p.text-center
+{
+  text-align: center;
+}
+
+.cookieconsent .btn-info
+{
+  border-color: #965cc5;
+  color: #fff;
+  background-color: #b891d8;
+  border-color: #b891d8;
+}
+
+.btn
+{
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  white-space: nowrap;
+  padding: 6px 12px;
+  font-size: 18px;
+  line-height: 1.5;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}

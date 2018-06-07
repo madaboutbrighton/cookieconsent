@@ -1,0 +1,25 @@
+--------------------------------------
+Changelog: #NAME#
+--------------------------------------
+
+Version: 0.0.4
+
+- Updated CookieConsent chunk to work by default, even if Bootstrap is not being used.
+
+==============================
+
+Version: 0.0.3
+
+- Updated main snippet to allow for dev environment.
+
+==============================
+
+Version: 0.0.2
+==============================
+
+- Updated transport packaging.
+
+Version: 0.0.1
+==============================
+
+- First release.
