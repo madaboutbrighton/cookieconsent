@@ -2,9 +2,10 @@
 Changelog: #NAME#
 --------------------------------------
 
-Version: 0.0.5
+Version: 0.0.6
 
-- Updated spelling mistake in default chunk mouseover text - "out cookie policy" to "our cookie policy"
+- Updated spelling mistake in default chunk mouseover text - "out cookie policy" to "our cookie policy".
+- Updated button position in default chunk.
 
 ==============================
 

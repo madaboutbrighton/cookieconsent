@@ -5,7 +5,7 @@ Package: #NAME#
 Version: #VERSION#
 Author: Mad About Brighton <mail@madaboutbrighton.net>
 
-A ModX cookie disclaimer plugin.
+A MODX cookie disclaimer plugin.
 
 Official Documentation:
 
