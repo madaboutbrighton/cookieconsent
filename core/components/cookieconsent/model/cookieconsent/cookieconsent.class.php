@@ -16,7 +16,7 @@
  * A PARTICULAR PURPOSE. See the Creative Commons attribution-ShareAlike 3.0 Unported License for more details.
  *
  * You should have recieved a copy of the license. If not, it can be viewed by visiting 
- * http://madaboutbrighton.net/projects/cookieconsent
+ * https://madaboutbrighton.net/projects/cookieconsent
  *
  */
 
@@ -115,7 +115,7 @@ class CookieConsent
     $item = '</body>';
     $find[] = $item;
     $replace[] = $this->getChunk( $tpl, $a ) . "\n" . $item;
-    
+
     $output = &$this->modx->resource->_output;
    
     $output = str_replace($find, $replace, $output);

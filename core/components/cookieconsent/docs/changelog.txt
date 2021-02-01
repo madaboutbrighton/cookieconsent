@@ -2,6 +2,13 @@
 Changelog: #NAME#
 --------------------------------------
 
+Version: 0.0.6
+
+- Updated spelling mistake in default chunk mouseover text - "out cookie policy" to "our cookie policy".
+- Updated button position in default chunk.
+
+==============================
+
 Version: 0.0.4
 
 - Updated CookieConsent chunk to work by default, even if Bootstrap is not being used.
